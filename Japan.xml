@@ -32,7 +32,6 @@
         <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/e/e9/Fuji_TV_logo.svg/1200px-Fuji_TV_logo.svg.png"/>
     </channel>
 
-    </channel>
     <channel id="Nippon TV">
         <display-name>日本テレビ</display-name>
         <icon src="https://static.epg.best/jp/NipponTV.jp.png"/>
