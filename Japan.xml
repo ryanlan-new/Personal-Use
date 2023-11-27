@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
+  <tv generator-info-name="xTeVe" source-info-name="xTeVe - 2.2.0">
 
-<tv>
     <channel id="URLARU">
         <display-name>日テレNEWS24</display-name>
         <icon src="https://pbs.twimg.com/profile_images/1209053168870416389/lFgBlkWY_400x400.jpg"/>
